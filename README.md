@@ -60,6 +60,7 @@ Connect **all** nRF24L01+ modules as follows:
 3. Install all required libraries.
 4. Compile and upload the firmware.
 5. Power the ESP32.
+6. ***Optional:** Download and print a custom 3D-printed enclosure for the jammer https://github.com/theredcraft0803/Simple-ESP32-2.4GHz-Jammer-Case*
 
 ## Disclaimer
 
